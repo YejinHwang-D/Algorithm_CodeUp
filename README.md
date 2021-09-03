@@ -6,7 +6,7 @@
 
 ### 풀이 일지
 ```
-#### 💎 Now all complete 💎
+💎 Now all complete 💎
 ```
 
 ```
